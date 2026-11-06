@@ -36,6 +36,6 @@ public class Main {
 
         //Output: Display the list itself
         System.out.println("My list now looks like " +  myList);
-
+        System.out.println("Is my list Empty? " + myList.isEmpty());
     }
 }
